@@ -1,9 +1,9 @@
 {
-  "name": "iron-swipeable-container",
+  "name": "ridygo-swipeable-container",
   "version": "1.0.3",
-  "description": "A container that alows any of its nested children to be swiped away.",
+  "description": "A container that alows any of its nested children to be left swiped away.",
   "authors": [
-    "The Polymer Authors"
+    "Arnaud Delcasse (adapted from the Polymer authors)"
   ],
   "keywords": [
     "web-components",
@@ -11,14 +11,14 @@
     "swipe",
     "swipeable"
   ],
-  "main": "iron-swipeable-container.html",
+  "main": "ridygo-swipeable-container.html",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/PolymerElements/iron-swipeable-container.git"
+    "url": "git://github.com/Ridygo/ridygo-swipeable-container.git"
   },
   "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/PolymerElements/iron-swipeable-container",
+  "homepage": "https://github.com/Ridygo/ridygo-swipeable-container",
   "ignore": [],
   "dependencies": {
     "polymer": "Polymer/polymer#^1.1.0"
